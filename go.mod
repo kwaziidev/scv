@@ -1,4 +1,4 @@
-module scv
+module github.com/gloomyzerg/scv
 
 go 1.13
 
